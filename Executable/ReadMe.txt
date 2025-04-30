@@ -1,4 +1,2 @@
-1、双击OpenglGame.exe运行（双击后可能需要等待一下才能启动，资源比较大，加载需要一点时间）
-
-2、需要有VS环境才能启动
-
+1銆乸lay the `OpenGlGame.exe`
+2. Run in the Visual Studio x64 debug environment
